@@ -1,2 +1,2 @@
 # GPS-based-Speedometer
-displaying map and current speed using built in GPS
+Displaying map and current speed using built in GPS
